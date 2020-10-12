@@ -1,0 +1,20 @@
+h1 {
+    color: white;
+}
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    color: white;
+    background-image: url("https://i.pinimg.com/originals/f8/14/cd/f814cd9030f0ab158438122256745aab.jpg");
+    
+    background-size: cover;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
